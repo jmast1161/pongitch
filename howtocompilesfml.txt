@@ -1,0 +1,1 @@
+g++ pongitch.cpp Game.cpp background.cpp randMovObj.cpp player.cpp aiMovObj.cpp bullet.cpp gameObject.cpp -o pongitch.exe -Lc:\sfml21\lib -Ic:\sfml21\include -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
